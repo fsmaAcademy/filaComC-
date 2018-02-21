@@ -1,0 +1,3 @@
+C:/Users/thiago/Documents/desenvolvimento/faculdade/cmake-build-debug/CMakeFiles/faculdade.dir
+C:/Users/thiago/Documents/desenvolvimento/faculdade/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/thiago/Documents/desenvolvimento/faculdade/cmake-build-debug/CMakeFiles/rebuild_cache.dir
